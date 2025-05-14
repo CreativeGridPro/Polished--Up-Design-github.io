@@ -9,10 +9,13 @@ Polished Up Design – Clean, Bold &amp; Strategic Visuals”
 ## 💼 Featured Projects
 
 | Project Name | Description | Tools |![Polished Up Design  (15)](https://github.com/user-attachments/assets/88ca5c99-cb96-4a9b-a59b-259996555981)
+![Creative Modern Business Card](https://github.com/user-attachments/assets/2d9c46b2-320f-4673-a6e8-5a767175430f)
+![Blue Black Modern Business Card](https://github.com/user-attachments/assets/377bad28-c868-4452-a171-ec5b90af31e1)
+![Professional creative mockup (1)](https://github.com/user-attachments/assets/b0bfa1b9-2966-4758-b845-adf50da6fca2)
 
 |--------------|-------------|-------|
 | **Polished Up Branding Kit** | A full visual identity for a modern lifestyle brand including logos, icons, and color system. | Illustrator, Photoshop |
-| **Elite Golden Home UI** | Real estate website UI/UX with property cards, grid layouts, and contact flow. | Figma, HTML/CSS |
+| **Polished Up Design UI** | Real estate website UI/UX with property cards, grid layouts, and contact flow. | Figma, HTML/CSS |
 | **Social Ads Pack** | Designed ad creatives for Facebook & Instagram using brand storytelling. | Canva, After Effects |
 | **Ghareed Business Card** | A minimalist, luxury-themed card for personal branding. | Illustrator, InDesign |
 
@@ -32,7 +35,7 @@ Polished Up Design – Clean, Bold &amp; Strategic Visuals”
 
 ## 📍 Connect With Me
 - 🌐 [My Design Website](https://tinyurl.com/Polished-Up-Design)
-- 🎨 [Instagram - @polishedup.design]((https://www.instagram.com/poli.shed77/?__pwa=1#))
+- 🎨 [Instagram - (9)](https://www.instagram.com/poli.shed77/?__pwa=1# # #)
 - 💼 [LinkedIn]www.linkedin.com/in/ghareedfarook3795b6289
 - 📩 Email:ghareedfarook@gmail.com
 
